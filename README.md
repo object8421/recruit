@@ -10,6 +10,7 @@
   - [Android安全研究员](https://github.com/pwnzen/recruit/blob/master/jobs/Android-analyst.md)
   - [Android开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/Android.md)
   - [Android逆向分析工程师](https://github.com/pwnzen/recruit/blob/master/jobs/Android-reverse.md)
+  - [Java开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/java-engineer.md)
 - iOS/MAC
  - [iOS/MAC开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/iOS.md)
  

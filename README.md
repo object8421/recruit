@@ -4,7 +4,7 @@
 ###职位列表
 
 - 安全逆向
- - [逆向分析工程师](https://github.com/pwnzen/recruit/blob/master/jobs/reverse-engineer.md)
+ - [移动安全研究员](https://github.com/pwnzen/recruit/blob/master/jobs/security-analyst.md)
 
 - Android
   - [Android安全研究员](https://github.com/pwnzen/recruit/blob/master/jobs/Android-analyst.md)

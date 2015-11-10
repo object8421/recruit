@@ -16,7 +16,7 @@
  
 - Platform
   - [C++开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/C%2B%2B.md)
-
+  - [文档工程师]
 - Cloud
   - [Web 前端](https://github.com/pwnzen/recruit/blob/master/jobs/web-frontend.md)
   - [Python](https://github.com/pwnzen/recruit/blob/master/jobs/Python.md)
@@ -25,7 +25,10 @@
 - UI
   - [UI设计师](https://github.com/pwnzen/recruit/blob/master/jobs/ui-designer.md)
   - [交互设计师](https://github.com/pwnzen/recruit/blob/master/jobs/interactiondesigner.md)
-
+- business
+  - [新媒体运营专员]
+  - [销售经理]
+  - [售前顾问]
 
 
 ###FAQ

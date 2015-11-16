@@ -54,8 +54,8 @@
  - 带薪假期
  - 年度体检 
  - **商业医保**
- - 专业视听游戏室(150寸投影/7.1音箱/OPPO BDP103/Xbox One/Xbox 360/头等舱沙发) 
- - 台球桌、乒乓球桌、椭圆机等各类健身、休闲器材 
+ - [专业视听游戏室(150寸投影/7.1音箱/OPPO BDP103/Xbox One/Xbox 360/头等舱沙发) ](https://github.com/pwnzen/recruit/blob/master/images/cinema_a.jpg)
+ - [台球桌](https://github.com/pwnzen/recruit/blob/master/images/billiard_table.jpg)、乒乓球桌、椭圆机等各类健身、休闲器材 
  - 定期Team building
  - 员工股权激励 
 

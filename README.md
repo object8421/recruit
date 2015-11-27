@@ -15,7 +15,7 @@
  - [iOS/MAC开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/iOS.md)
  
 - Platform
-  - [C++开发工程师](https://github.com/pwnzen/recruit/blob/master/jobs/C%2B%2B.md)
+  
   - [文档工程师](https://github.com/pwnzen/recruit/blob/master/jobs/document-engineer.md)
 - Cloud
   - [Web 前端](https://github.com/pwnzen/recruit/blob/master/jobs/web-frontend.md)

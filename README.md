@@ -26,6 +26,7 @@
   - [UI设计师](https://github.com/pwnzen/recruit/blob/master/jobs/ui-designer.md)
   - [交互设计师](https://github.com/pwnzen/recruit/blob/master/jobs/interactiondesigner.md)
 - business
+  - [产品经理](https://github.com/pwnzen/recruit/blob/master/jobs/product-manager.md)
   - [新媒体运营专员](https://github.com/pwnzen/recruit/blob/master/jobs/media-specialist.md)
   - [销售经理](https://github.com/pwnzen/recruit/blob/master/jobs/sales-manager.md)
   - [售前顾问](https://github.com/pwnzen/recruit/blob/master/jobs/pre-sales-consultant.md)
